@@ -49,3 +49,5 @@
 [user]
 	email = anniou.toybou@gmail.com
 	name = Anniou Toybou
+[url "https://github.com/"]
+	insteadOf = git://github.com/
