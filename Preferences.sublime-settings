@@ -21,12 +21,15 @@
 		".pytest_cache",
 		"__pycache__"
 	],
+	"font_size": 32,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Package Control",
 		"Vintage"
 	],
+	"index_files": true,
 	"remember_open_files": false,
 	"rulers":
 	[
